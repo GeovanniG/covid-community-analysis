@@ -23,7 +23,7 @@
   <p align="center">
     I was interested in observing the impact COVID-19 has had on the community. 
     <br />
-    <a href="https://github.com/GeovanniG/covid-community-analysis/covid-communication.ipynb"><strong>View Report »</strong></a>
+    <a href="https://github.com/GeovanniG/covid-community-analysis/blob/master/covid-communication.ipynb"><strong>View Report »</strong></a>
     <br />
     <br />
     <a href="https://github.com/GeovanniG/covid-community-analysis/issues">Report Bug</a>
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Covid Project Screen Shot][product-screenshot]](https://github.com/GeovanniG/covid-community-analysis/covid-communication.ipynb)
+[![Covid Project Screen Shot][product-screenshot]](https://github.com/GeovanniG/covid-community-analysis/blob/master/covid-communication.ipynb)
 
 
 ### Built With
@@ -125,7 +125,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Email](2276348+GeovanniG@users.noreply.github.com)
 
-Project Link: [https://github.com/GeovanniG/covid-community-analysis/covid-communication.ipynb](https://github.com/GeovanniG/covid-community-analysis)
+[Project Link](https://github.com/GeovanniG/covid-community-analysis/blob/master/covid-communication.ipynb)
 
 
 
