@@ -144,6 +144,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/GeovanniG/covid-community-analysis/issues
 
 [license-shield]: https://img.shields.io/github/license/GeovanniG/covid-community-analysis?style=flat-square
-[license-url]: https://github.com/GeovanniG/covid-community-analysis/blob/main/LICENSE
+[license-url]: https://github.com/GeovanniG/covid-community-analysis/blob/master/LICENSE
 
 [product-screenshot]: images/screenshot.png
